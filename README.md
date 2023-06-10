@@ -8,7 +8,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11.
 
 La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```DTH11```) para adquirir temperatura y humedad del entorno; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/).
 
-
+https://raw.githubusercontent.com/DiegoJm10/PracticaDHT/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m.%20(2).png
 ## Material Necesario
 
 Para realizar esta practica necesitas lo siguiente
